@@ -98,7 +98,7 @@ return [
     |
     */
 
-    'disableCoreUpdates' => false,
+    'disableCoreUpdates' => true,
 
     /*
     |--------------------------------------------------------------------------
@@ -262,7 +262,7 @@ return [
     |
     */
 
-    'convertLineEndings' => false,
+    'convertLineEndings' => true,
 
     /*
     |--------------------------------------------------------------------------
