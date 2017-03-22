@@ -29,7 +29,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'http://sbadi.sakura.ne.jp/gitfiles/fibonacci',
 
     /*
     |--------------------------------------------------------------------------
@@ -81,7 +81,7 @@ return [
     |
     */
 
-    'key' => 'J3Do0xHj0uWhRGYMEsTnj8p0dOEM4Dff',
+    'key' => 'FmcUmZX4M267BltLOpSz1MPsEgnlerIb',
 
     'cipher' => 'AES-256-CBC',
 

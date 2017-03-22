@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => 'localhost',
+            'host'      => 'mysql537.db.sakura.ne.jp',
             'port'      => '',
-            'database'  => 'database',
-            'username'  => 'root',
-            'password'  => '',
+            'database'  => 'sbadi_fibonacci',
+            'username'  => 'sbadi',
+            'password'  => 'sbadi_elgg',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
